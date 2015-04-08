@@ -1,0 +1,2 @@
+Hitachi (R) DVD camcoders record the date and time of when a clip was shot in a file call RX.DAT placed in the RTR\_EXTN folder. Unfortunately, so far I was unable to find a program that would extract this information and display it in a human/portable machine readable format, so I wrote a rudimentary tool for that.
+I decided to publish it here in the hope that someone will find it helpful and/or develop it further.
